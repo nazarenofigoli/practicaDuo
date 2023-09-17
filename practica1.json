@@ -1,0 +1,15 @@
+[{
+    "nombre" : "Adele",
+    "edad" : 28,
+    "idioma" : "Inglés"
+}
+,{
+    "nombre" : "Bruno Mars",
+    "edad" : 35,
+    "idioma" : "Inglés"
+},
+{
+    "nombre" : "Chayanne",
+    "edad" : 48,
+    "idioma" : "Español"
+}]
